@@ -59,6 +59,7 @@ div.frame4-3 {
 	flex-direction : row;
 	padding : 0px 16px;
 	justify-content : space-between;
+	align-items : center;
 }
 
 p.cafe {
