@@ -1,9 +1,12 @@
 html, body, * {
 	margin : 0px;
 	padding : 0px;
-	font-family : Barlow;
+}
+
+p {
+	font-family: 'Barlow';
 	font-weight : 400;
-	color : #424242;
+	color : #424242;	
 }
 
 div.grid {
